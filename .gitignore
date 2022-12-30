@@ -1,0 +1,12 @@
+node_modules/
+css/
+img/
+scss/
+pages/contacto.html
+pages/proyectos.html
+pages/quienes_somos.html
+pages/ubicacion.html
+index.html
+package-lock.json
+package.json
+styles.css
