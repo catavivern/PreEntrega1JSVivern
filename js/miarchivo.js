@@ -27,9 +27,12 @@ while (dato !="ESC"){
 
 mostrarConvertirAPesos(dato)
 
+grano = prompt("Ingrese en grano que quiere elegir:")
+
 function elegirGrano(grano){
     if( grano == "maiz");
     console.log("Usted ha elegido maiz");
     if( grano == "soja");
     console.log("Usted ha elegido soja");}
 
+elegirGrano(grano)
